@@ -1,0 +1,6 @@
+Basic Network OSPF Multi Area
+
+Router1
+Router2
+Router3
+
